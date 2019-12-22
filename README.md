@@ -1,1 +1,1 @@
-#latihan 5 
+#latihan 6
